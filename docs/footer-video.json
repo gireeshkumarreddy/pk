@@ -1,0 +1,14 @@
+{
+  "placement": "footer",
+  "type": "YouTube embed",
+  "video_id": "FbXOsVByKmk",
+  "title": "They Call Him OG - Firestorm Lyric Video | Pawan Kalyan | Sujeeth | Thaman S | DVV Danayya",
+  "channel": "Sony Music South",
+  "url": "https://www.youtube.com/watch?v=FbXOsVByKmk",
+  "start_seconds": 52,
+  "end_seconds": 84,
+  "playable_in_embed": true,
+  "verification": "Official channel, 246-second duration, embed permission and up to 3840x2160 adaptive streams verified from public player metadata. YouTube chooses delivered playback quality. Streaming could not be visually confirmed in the cloud browser.",
+  "fallback": "og-dual-guns.jpg",
+  "behavior": "Muted autoplay when visible; loops 52–84 seconds; paused when out of view, global pause enabled or film modal opens. Complete 16:9 frame retained. Overlay logo fades while video plays."
+}

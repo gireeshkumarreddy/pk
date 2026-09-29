@@ -1,0 +1,45 @@
+{
+  "quality": "Standard-definition promotional loops, 498 pixels wide; not full-length or 4K masters.",
+  "clips": {
+    "entrance": {
+      "page": "https://tenor.com/view/og-they-call-him-og-pawan-kalyan-hungry-cheetah-firestorm-is-coming-gif-5854968689003439243",
+      "media": "https://media.tenor.com/UUEHAG8VpIsAAAPo/og-they-call-him-og.mp4",
+      "publisher": "AAA Creations US",
+      "duration": 5.181818,
+      "frames": 155,
+      "width": 498,
+      "height": 208,
+      "r_frame_rate": "33/1"
+    },
+    "katana": {
+      "page": "https://tenor.com/view/hbd-og---love-omi---glimpse-pawan-kalyan-love-omi-og-they-call-him-og-gif-11884036109380111190",
+      "media": "https://media.tenor.com/pOyT4I2ES1YAAAPo/hbd-og---love-omi---glimpse-pawan-kalyan.mp4",
+      "duration": 5.2,
+      "frames": 156,
+      "width": 498,
+      "height": 208,
+      "r_frame_rate": "25/1",
+      "publisher": "Sony Music South India \u2014 official Tenor partner"
+    },
+    "firestorm": {
+      "page": "https://tenor.com/view/og-they-call-him-og-pk-pawan-kalyan-thaman-s-gif-7932610523098606150",
+      "media": "https://media.tenor.com/bhZLPfLRakYAAAPo/og-they-call-him-og.mp4",
+      "duration": 4.5,
+      "frames": 135,
+      "width": 498,
+      "height": 214,
+      "r_frame_rate": "30/1",
+      "publisher": "Sony Music South India \u2014 official Tenor partner"
+    }
+  },
+  "additional_clips": {
+    "title": {
+      "page": "https://tenor.com/view/they-call-him-og-film-title-gif-10762559819870484313",
+      "media": "https://media.tenor.com/lVxLIjlFt1kAAAPo/they-call-him-og-film-title.mp4"
+    },
+    "glasses": {
+      "page": "https://tenor.com/view/putting-sunglasses-on-ojas-gambheera-they-call-him-og-wearing-sunglasses-firestorm-is-coming-pawan-kalyan-gif-14855463184798272648",
+      "media": "https://media.tenor.com/zik1DxfLTIgAAAPo/putting-sunglasses-on-ojas-gambheera.mp4"
+    }
+  }
+}
